@@ -1,7 +1,7 @@
 # Project 13: Fun with Arrays
 Create a two class project that allows that does the following:
 
-# #Main Class
+## Main Class
 
     Pass over 50 random integers from 40 to 200 one at a time to the server class.
     Display the results of toString method in the server class.
